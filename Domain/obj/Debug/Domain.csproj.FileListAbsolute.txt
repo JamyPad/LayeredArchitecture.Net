@@ -1,0 +1,7 @@
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\obj\Debug\Domain.Recursos.resources
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\obj\Debug\Domain.csproj.GenerateResource.Cache
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Domain\obj\Debug\Domain.pdb

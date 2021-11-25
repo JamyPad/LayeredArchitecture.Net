@@ -1,0 +1,14 @@
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Domain.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Infrastructure.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Domain.pdb
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\Infrastructure.pdb
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\Ingrid\Documents\CaracolKnits\Arquitectura\DomainArquitectura\Domain\Domain\Aplicacion\obj\Debug\Aplicacion.pdb
